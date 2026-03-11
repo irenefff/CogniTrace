@@ -1,0 +1,29 @@
+# Root repository hygiene
+.DS_Store
+Thumbs.db
+
+# Node artifacts
+**/node_modules/
+**/build/
+**/dist/
+**/.plasmo/
+**/*.tsbuildinfo
+**/*.log
+
+# Local env
+**/.env
+**/.env.local
+
+# Keep workspace focused on open-source core
+cognitrace-demo/
+Roadshow_Package_Final/
+Chrome_Extension_Commercialization_Plan.md
+AI 检测项目商业计划书设计.md
+CogniTrace_Development_Plan.md
+PROJECT_MEMORY.md
+TESTING_STRATEGY.md
+完善的idea
+~WRL0005.tmp
+
+# Editor and local metadata
+.cursor/

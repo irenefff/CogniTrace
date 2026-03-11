@@ -1,0 +1,14 @@
+[
+  { "sessionId": "s1", "type": "keydown", "timestamp": 1000, "keyType": "char", "flightTime": 120 },
+  { "sessionId": "s1", "type": "keyup", "timestamp": 1120, "dwellTime": 75 },
+  { "sessionId": "s1", "type": "keydown", "timestamp": 1300, "keyType": "char", "flightTime": 180 },
+  { "sessionId": "s1", "type": "keyup", "timestamp": 1390, "dwellTime": 60 },
+  { "sessionId": "s1", "type": "keydown", "timestamp": 1625, "keyType": "space", "flightTime": 235 },
+  { "sessionId": "s1", "type": "keyup", "timestamp": 1700, "dwellTime": 55 },
+  { "sessionId": "s1", "type": "keydown", "timestamp": 1980, "keyType": "char", "flightTime": 280 },
+  { "sessionId": "s1", "type": "keyup", "timestamp": 2060, "dwellTime": 65 },
+  { "sessionId": "s1", "type": "keydown", "timestamp": 2290, "keyType": "backspace", "flightTime": 230 },
+  { "sessionId": "s1", "type": "keyup", "timestamp": 2350, "dwellTime": 50 },
+  { "sessionId": "s1", "type": "keydown", "timestamp": 2610, "keyType": "char", "flightTime": 260 },
+  { "sessionId": "s1", "type": "keyup", "timestamp": 2690, "dwellTime": 58 }
+]

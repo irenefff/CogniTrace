@@ -1,0 +1,14 @@
+[
+  { "sessionId": "s3", "type": "keydown", "timestamp": 1000, "keyType": "char", "flightTime": 10 },
+  { "sessionId": "s3", "type": "keyup", "timestamp": 1010, "dwellTime": 8 },
+  { "sessionId": "s3", "type": "keydown", "timestamp": 1020, "keyType": "char", "flightTime": 10 },
+  { "sessionId": "s3", "type": "keyup", "timestamp": 1030, "dwellTime": 8 },
+  { "sessionId": "s3", "type": "keydown", "timestamp": 1040, "keyType": "char", "flightTime": 10 },
+  { "sessionId": "s3", "type": "keyup", "timestamp": 1050, "dwellTime": 8 },
+  { "sessionId": "s3", "type": "paste", "timestamp": 1100, "pasteLen": 300 },
+  { "sessionId": "s3", "type": "input", "timestamp": 1110 },
+  { "sessionId": "s3", "type": "paste", "timestamp": 1200, "pasteLen": 260 },
+  { "sessionId": "s3", "type": "input", "timestamp": 1210 },
+  { "sessionId": "s3", "type": "paste", "timestamp": 1300, "pasteLen": 250 },
+  { "sessionId": "s3", "type": "input", "timestamp": 1310 }
+]

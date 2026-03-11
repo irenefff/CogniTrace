@@ -1,0 +1,14 @@
+[
+  { "sessionId": "s4", "type": "focus", "timestamp": 1000 },
+  { "sessionId": "s4", "type": "keydown", "timestamp": 1120, "keyType": "char", "flightTime": 120 },
+  { "sessionId": "s4", "type": "keyup", "timestamp": 1205, "dwellTime": 70 },
+  { "sessionId": "s4", "type": "input", "timestamp": 1210 },
+  { "sessionId": "s4", "type": "keydown", "timestamp": 1410, "keyType": "char", "flightTime": 200 },
+  { "sessionId": "s4", "type": "keyup", "timestamp": 1495, "dwellTime": 66 },
+  { "sessionId": "s4", "type": "input", "timestamp": 1502 },
+  { "sessionId": "s4", "type": "paste", "timestamp": 1750, "pasteLen": 45 },
+  { "sessionId": "s4", "type": "input", "timestamp": 1760 },
+  { "sessionId": "s4", "type": "keydown", "timestamp": 2080, "keyType": "char", "flightTime": 320 },
+  { "sessionId": "s4", "type": "keyup", "timestamp": 2160, "dwellTime": 64 },
+  { "sessionId": "s4", "type": "click", "timestamp": 2240 }
+]
